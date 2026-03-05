@@ -1,6 +1,4 @@
-**README.md Content**
-
-Production RAG PDF Application
+**Production RAG PDF Application**
 
 This project implements a production-style Retrieval Augmented Generation (RAG) system that allows users to query information from PDF documents using semantic search and a Large Language Model (LLM). The system ingests PDF files, converts their content into embeddings, stores them in a vector database, retrieves the most relevant context, and then generates answers based on that context.
 
@@ -82,3 +80,4 @@ Author
 
 Pranali Kawade
 B.Tech – Artificial Intelligence and Data Science
+
